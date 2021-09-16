@@ -22,7 +22,7 @@ class Produk
 // var_dump($produk2);
 
 $produk3 = new Produk();
-$produk3->judul = "Sasuke";
+$produk3->judul = "boruto";
 $produk3->penulis = "Masashi Kishimoto";
 $produk3->penerbit = "Shonen Jump";
 $produk3->harga = 50000;
